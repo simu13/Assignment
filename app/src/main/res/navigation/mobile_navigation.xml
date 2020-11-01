@@ -22,7 +22,7 @@
         tools:layout="@layout/fragment_doubt" />
     <fragment
         android:id="@+id/friendsFragment"
-        android:name="com.example.assignment.FriendsFragment"
+        android:name="com.example.assignment.friends.FriendsFragment"
         android:label="fragment_friends"
         tools:layout="@layout/fragment_friends" />
     <fragment

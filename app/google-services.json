@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "363550129896",
+    "firebase_url": "https://intership-94d7a.firebaseio.com",
+    "project_id": "intership-94d7a",
+    "storage_bucket": "intership-94d7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363550129896:android:735c94d5c693ebec02d35d",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363550129896-8aobaqf9i2sadk64242ekvv40v293o1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTmayJslfPi6sUAtxqwq-A1N61w2yhRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363550129896-8aobaqf9i2sadk64242ekvv40v293o1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363550129896:android:daf2c6a5ffb2be2902d35d",
+        "android_client_info": {
+          "package_name": "com.example.eyeonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363550129896-8aobaqf9i2sadk64242ekvv40v293o1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTmayJslfPi6sUAtxqwq-A1N61w2yhRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363550129896-8aobaqf9i2sadk64242ekvv40v293o1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363550129896:android:090d7bda0d68803802d35d",
+        "android_client_info": {
+          "package_name": "com.example.groceryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363550129896-8aobaqf9i2sadk64242ekvv40v293o1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTmayJslfPi6sUAtxqwq-A1N61w2yhRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363550129896-8aobaqf9i2sadk64242ekvv40v293o1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
