@@ -15,9 +15,9 @@ class MainActivity : AppCompatActivity() {
         bottomNavigationView.background = null
         bottomNavigationView.menu.getItem(2).isEnabled = false
         bottomNavigationView.setupWithNavController(nav_host_fragment.findNavController())
-        fab.setOnClickListener {
-            val intent = Intent("android.media.action.IMAGE_CAPTURE")
-            startActivity(intent)
-        }
+//        fab.setOnClickListener {
+//            val intent = Intent("android.media.action.IMAGE_CAPTURE")
+//            startActivity(intent)
+//        }
     }
 }

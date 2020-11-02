@@ -48,7 +48,7 @@ class HomeFragment : Fragment() {
          // 1
         val item1 = HomeIcons(
             "My Notes",
-            R.drawable.ic_add,
+            R.drawable.ic_add_note,
         )
 
         list.add(item1)
@@ -56,7 +56,7 @@ class HomeFragment : Fragment() {
         // 2
         val item2 = HomeIcons(
             "NCERT ",
-            R.drawable.ic_add,
+            R.drawable.ic_books,
         )
 
         list.add(item2)
@@ -64,7 +64,7 @@ class HomeFragment : Fragment() {
         // 3
         val item3 = HomeIcons(
             "JEE-NEET",
-            R.drawable.ic_add,
+            R.drawable.ic_exam,
         )
 
         list.add(item3)
@@ -72,7 +72,7 @@ class HomeFragment : Fragment() {
         // 4
         val item4 = HomeIcons(
             "WhatsApp",
-            R.drawable.ic_add,
+            R.drawable.ic_whatsapp,
         )
 
         list.add(item4)
@@ -88,7 +88,7 @@ class HomeFragment : Fragment() {
         // 6
         val item6 = HomeIcons(
             "Maths",
-            R.drawable.ic_add,
+            R.drawable.ic_maths,
         )
 
         list.add(item6)
@@ -96,7 +96,7 @@ class HomeFragment : Fragment() {
         // 7
         val item7 = HomeIcons(
             "Live Class",
-            R.drawable.ic_add,
+            R.drawable.ic_online_class,
         )
 
         list.add(item7)
@@ -104,42 +104,10 @@ class HomeFragment : Fragment() {
         // 8
         val item8 = HomeIcons(
             "Topics",
-            R.drawable.ic_add,
+            R.drawable.ic_document,
         )
 
         list.add(item8)
-
-        // 9
-        val item9 = HomeIcons(
-            "JEE-NEET",
-            R.drawable.ic_add,
-        )
-
-        list.add(item9)
-
-        // 10
-        val item10 = HomeIcons(
-            "WhatsApp",
-            R.drawable.ic_add,
-        )
-
-        list.add(item10)
-
-        // 11
-        val item11 = HomeIcons(
-            "NCERT",
-            R.drawable.ic_add,
-        )
-
-        list.add(item11)
-
-        // 12
-        val item12 = HomeIcons(
-            "Maths",
-            R.drawable.ic_add,
-        )
-
-        list.add(item12)
 
         return list
     }
